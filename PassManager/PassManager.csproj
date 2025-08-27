@@ -14,7 +14,7 @@
     <Folder Include="Infrastructure\Data\" />
     <Folder Include="Infrastructure\Security\" />
     <Folder Include="Infrastructure\Repositories\" />
-    <Folder Include="Presentation\" />
+    <Folder Include="Presentation\ConsoleUI\" />
   </ItemGroup>
 
 </Project>
