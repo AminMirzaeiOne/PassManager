@@ -10,6 +10,7 @@
   <ItemGroup>
     <Folder Include="Domain\Entities\" />
     <Folder Include="Domain\Interfaces\" />
+    <Folder Include="Application\" />
   </ItemGroup>
 
 </Project>
