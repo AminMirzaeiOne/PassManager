@@ -13,7 +13,7 @@ namespace PassManager.Infrastructure.Data
         public DbSet<PasswordItem> PasswordItems { get; set; }
         public DbSet<User> Users { get; set; }
 
-        public AppDbContext(DbContextOptions<AppDbContext> opts) : base(opts) { }
+        public AppDBContext(DbContextOptions<AppDBContext> opts) : base(opts) { }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
