@@ -11,7 +11,7 @@
     <Folder Include="Application\Services\" />
     <Folder Include="Domain\Entities\" />
     <Folder Include="Domain\Interfaces\" />
-    <Folder Include="Infrastructure\" />
+    <Folder Include="Infrastructure\Data\" />
   </ItemGroup>
 
 </Project>
