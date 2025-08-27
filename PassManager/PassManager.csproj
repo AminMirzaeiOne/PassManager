@@ -14,7 +14,6 @@
     <Folder Include="Infrastructure\Data\" />
     <Folder Include="Infrastructure\Security\" />
     <Folder Include="Infrastructure\Repositories\" />
-    <Folder Include="Utils\" />
     <Folder Include="Presentation\ConsoleUI\" />
   </ItemGroup>
 
