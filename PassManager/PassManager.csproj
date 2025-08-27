@@ -12,7 +12,6 @@
     <Folder Include="Domain\Entities\" />
     <Folder Include="Domain\Interfaces\" />
     <Folder Include="Infrastructure\Data\" />
-    <Folder Include="Infrastructure\Security\" />
     <Folder Include="Infrastructure\Repositories\" />
   </ItemGroup>
 
